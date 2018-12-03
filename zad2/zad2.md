@@ -14,12 +14,13 @@
 
   ## Ostatnio oglądałam:
 
-| Nazwa serialu |   Liczba sezonów |
-|---------------------            |
-| Girlboss                        | 1
-| Chilling adventures of Sabrina 	| 1
-| Dynastia                       	| 2
-| Atypowy                        	| 2
+
+  |  Nazwa serialu                 	| Liczba sezonów 	|
+  |--------------------------------	|----------------	|
+  | Chilling adventures of Sabrina 	| 1              	|
+  | Dynastia                       	| 2              	|
+  | Atypowy                        	| 2              	|
+  | Girlboss                       	| 1              	|
 
 ### Przepis na naleśniki
 
